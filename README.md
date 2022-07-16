@@ -4,3 +4,8 @@ This is the sample of a responsive Resume made mainly by using HTML and CSS I ho
 
 
 
+Demo hosted on : https://responsiveresumebijaya.netlify.app
+
+
+
+
